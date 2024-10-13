@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mx.unam.fi.poo.g1.p8","l":"Ejercicio2"},{"p":"mx.unam.fi.poo.g1.p8","l":"Empleado"},{"p":"mx.unam.fi.poo.g1.p8","l":"Gerente"},{"p":"mx.unam.fi.poo.g1.p8","l":"Programador"}];updateSearchResults();
